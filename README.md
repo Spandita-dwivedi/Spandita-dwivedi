@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently Exploring **Web development and Machine learning.**
 
-- 💬 Ask me about **UI/UX design, Web development.**
+- 💬 Ask me about- **UI/UX design, Web development.**
 
-- 📫 How to reach me **Spandita.dwi@gmail.com**
+- 📫 How to reach me- **Spandita.dwi@gmail.com**
 
-- 🌻 Fun fact **Playing Guitar and Reading is something I am extremely grateful for.**
+- 🌻 Fun fact- **Playing Guitar and Reading is something I am extremely grateful for.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
