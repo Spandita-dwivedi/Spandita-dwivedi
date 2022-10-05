@@ -1,6 +1,6 @@
 <h1 align="center">Hello there🔆, I'm Spandita Dwivedi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandita-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="spandita-dwivedi" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24090007&psig=AOvVaw3K3LI0C637Fg5HfELZU_8s&ust=1665084893292000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODK0-PqyfoCFQAAAAAdAAAAABAY">
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24090007">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Mental-Health Project](https://blooming-brook-14227.herokuapp.com/)
