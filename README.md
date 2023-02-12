@@ -13,8 +13,12 @@
 - 📫 How to reach me- **Spandita.dwi@gmail.com**
 
 - 🌻 Fun fact- **Playing Guitar and Reading is something I am extremely grateful for.**
+<h1></h1>
+
 
 ### Let's have a connection !
+
+<br>
 <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/spandita-dwivedi-a97789246/">
     <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" height=40px width=40px alt="LinkedIn Badge"/>
@@ -30,7 +34,12 @@
 
 </div>
 
+<h1></h1>
+
 ### My Programming's Toolkit :
+
+<br>
+
 <div align="center"> 
 <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30">
@@ -49,8 +58,14 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5210/5210800.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/5210/5210500.png" height="30" width="30">
 </div>
+<h1></h1>
+
+
 
 ### Github Portfolio :
+
+<br>
+
 <table cellpadding="0">
 <tr style="padding: 0">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spandita-dwivedi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spandita-dwivedi" />
