@@ -1,4 +1,4 @@
-![logo](https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/Code(1).jpeg)
+![](https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/Code(1).jpeg)
 <h1 align="center">Hello there🔆, I'm Spandita Dwivedi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandita-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="spandita-dwivedi" /> </p>
 <p><img align="right" alt="Coding" width="400" src="https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/95348_coding_boy.gif"> </p>
