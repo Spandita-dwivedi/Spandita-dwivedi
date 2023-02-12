@@ -1,7 +1,7 @@
 ![logo](https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/Code(1).jpeg)
 <h1 align="center">Hello there🔆, I'm Spandita Dwivedi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandita-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="spandita-dwivedi" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/coding.gif">
+<p><img align="right" alt="Coding" width="400" src="https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/coding.gif"> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://spandita.vercel.app/)
@@ -31,7 +31,7 @@
 </div>
 
 ### My Programming's Toolkit :
-<div>
+<div align="center"> 
 <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30">
 <img src="https://cdn-icons-png.flaticon.com/512/9472/9472487.png" height="30" width="30">
