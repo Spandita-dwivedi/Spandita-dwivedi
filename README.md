@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Spandita-dwivedi/Spandita-dwivedi/blob/main/coding.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mental-Health Project](https://blooming-brook-14227.herokuapp.com/)
+- 🔭 I’m currently working on [My Portfolio](https://spandita.vercel.app/)
 
 - 🌱 I’m currently Exploring **Web development and Machine learning.**
 
@@ -14,18 +14,60 @@
 
 - 🌻 Fun fact- **Playing Guitar and Reading is something I am extremely grateful for.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/spandita dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spandita dwivedi" height="30" width="40" /></a>
- <a href="https://twitter.com/@spandita_dwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@spandita_dwi" height="30" width="40" /></a>
-</p>
+### Let's have a connection !
+<div id="badges" align="center">
+ <a href="https://www.linkedin.com/in/spandita-dwivedi-a97789246/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" height=40px width=40px alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/spandita_dwi">
+    <img src="https://cdn-icons-png.flaticon.com/512/2335/2335289.png" height=40px width=40px alt="Twitter Badge"/>
+  </a>
+  
+   <a href="https://dribbble.com/spandita_d">
+    <img src="https://cdn-icons-png.flaticon.com/512/4008/4008375.png" height=40px width=40px alt="Dribble Badge"/>
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spandita-dwivedi&show_icons=true&locale=en&layout=compact" alt="spandita-dwivedi" /></p>
+### My Programming's Toolkit :
+<div>
+<img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/9472/9472487.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" height="30" width="30">
+<img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" height="30" width="30">
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/dtokjerhk1dxyludtlwc" height="30" width="30">
+<img src="https://cdn.iconscout.com/icon/free/png-256/heroku-3521485-2944929.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5210/5210800.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5210/5210500.png" height="30" width="30">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spandita-dwivedi&show_icons=true&locale=en" alt="spandita-dwivedi" /></p>
+### Github Portfolio :
+<table cellpadding="0">
+<tr style="padding: 0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=spandita-dwivedi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="spandita-dwivedi" />
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spandita-dwivedi&" alt="spandita-dwivedi" /></p>
+
+<table cellpadding="0">
+<tr style="padding: 0">
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=spandita-dwivedi&show_icons=true&locale=en&theme=github_dark"" alt="spandita-dwivedi" />
+</tr>
+</table>
+
+
+<table cellpadding="0">
+<tr style="padding: 0">
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=spandita-dwivedi&&theme=dark"" alt="spandita-dwivedi" />
+</tr>
+</table>
+
